@@ -5,9 +5,10 @@ Sedang ngerjain home page :
 
 ---> Profil
 - Tampilan Kelar
-- Logika Selesai
 - Benerin warna
+- Logika belum selesai
+
 
 ---> Chat
--
--
+- Tampilan Kelar
+- Logika selsai
