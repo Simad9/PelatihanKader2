@@ -5,7 +5,7 @@ Sedang ngerjain home page :
 
 ---> Profil
 - Tampilan Kelar
-- Logika Selesai
+- Logika belum selesai
 
 
 ---> Chat
