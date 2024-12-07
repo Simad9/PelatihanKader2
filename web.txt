@@ -6,7 +6,7 @@ Sedang ngerjain home page :
 ---> Profil
 - Tampilan Kelar
 - Logika Selesai
-
+- Benerin warna
 
 ---> Chat
 -
