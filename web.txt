@@ -10,4 +10,4 @@ Sedang ngerjain home page :
 
 ---> Chat
 - Tampilan Kelar
--
+- Logika selsai
